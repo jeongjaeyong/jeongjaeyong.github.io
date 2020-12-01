@@ -9,6 +9,5 @@ order: 4
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-블로그 만드는 중입니다....!
-
+#햐
 > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
